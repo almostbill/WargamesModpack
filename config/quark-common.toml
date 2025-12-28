@@ -1560,7 +1560,7 @@
 	"Elytra Indicator" = true
 	"Greener Grass" = true
 	"Improved Tooltips" = true
-	"Long Range Pick Block" = false
+	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true
 	"Soul Candles" = false
 	"Usage Ticker" = false
