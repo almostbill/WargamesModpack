@@ -1,0 +1,30 @@
+# Ignore everything
+*
+
+# Allow directories themselves
+!*/
+
+# Allow specific modpack folders
+!config/**
+!datapacks/**
+!mods/**
+!resourcepacks/**
+!shaderpacks/**
+
+!README.md
+!LICENSE
+!.gitignore
+
+# mods disabled by the CurseForge app
+*.disabled
+
+# the Lan Server Properties Config
+config/lsp.*
+
+# Configs that keep refreshing the date inside them and are not relevant
+config/oculus.*
+config/embeddium-options.*
+
+# Individual info
+config/jei/*
+config/worldedit/*
