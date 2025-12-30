@@ -19,12 +19,12 @@
 	#空投是否会吸引敌人？
 	enableenemies = false
 	#敌人将会多快（分钟）找到空投？
-	enemyarrivetime = 1.0
+	enemyarrivetime = 9999999.0
 	#空投将多快（分钟）被窃取？
-	airdropstolentime = 5.0
+	airdropstolentime = 9999999.0
 	#玩家至少距离空投多远时，空投会被窃取
-	distance = 50.0
-	enemylist = "minecraft:pillager,minecraft:zombie,minecraft:husk"
+	distance = 9.009009E8
+	enemylist = ""
 
 [Performance]
 	#是否强制加载空投路径区域？此法可以允许玩家在未加载的区块召唤空投，但是可能会破坏已有的常加载区域，服务器慎用。

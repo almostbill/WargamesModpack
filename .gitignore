@@ -5,7 +5,6 @@
 !*/
 
 # Allow specific modpack folders
-!config/**
 !datapacks/**
 !mods/**
 !resourcepacks/**
