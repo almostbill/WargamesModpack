@@ -9,6 +9,7 @@
 !mods/**
 !resourcepacks/**
 !shaderpacks/**
+!config/immersive_mc-client.*
 
 !README.md
 !LICENSE
