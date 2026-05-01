@@ -1,8 +1,8 @@
 #Just debug mode
 DebugMode = false
-#Dev mode adds some commands, must be turned off for release versions of modpacks.
+#Dev mode adds some commands, must be turned off for release version of modpack.
 DevMode = false
-#Default value of doExtraChecks (if value isnt provided)
+#Default value of doExtraChecks (if value isn't provided)
 DefaultDoExtraChecksValue = true
 #Creates berezka_plugins folder and loads data from it.
 UseFolderPluginSystem = false
@@ -10,4 +10,12 @@ UseFolderPluginSystem = false
 FolderPluginSystemList = []
 #Spawns less loot.
 SpawnLessLoot = false
+#Maximum size of cache
+#Range: -9223372036854775808 ~ 9223372036854775807
+MaxSizeOfStructuresCache = 500
+#LifeTimeOfStricturesCacheEntry.
+#Range: -9223372036854775808 ~ 9223372036854775807
+LifeTimeOfStricturesCacheEntry = 20000
+#Multiplier of Structures Spacing and Separation.
+StructuresRarityMultiplier = 1.0
 
